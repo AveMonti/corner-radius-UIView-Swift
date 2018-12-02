@@ -1,6 +1,6 @@
 # corner radius UIView Swift
 
-<img src="/img/img1.png" height="600" width="300" />
+<img src="/img/img1.png" height="600" width="400" />
 
 * swift
 
